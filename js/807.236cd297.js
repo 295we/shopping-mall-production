@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[807],{8807:function(n,u,r){r.r(u),r.d(u,{default:function(){return f}});var e=function(){var n=this;n._self._c;return n._m(0)},t=[function(){var n=this,u=n._self._c;return u("div",[u("h2",[n._v("页面开发中 ...")])])}],l={name:"GroupOrder"},s=l,a=r(1001),c=(0,a.Z)(s,e,t,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=807.236cd297.js.map
